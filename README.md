@@ -1,2 +1,2 @@
-# prueba-github
+# REPOSITORIO CLONADO
 Repositorio de prueba
